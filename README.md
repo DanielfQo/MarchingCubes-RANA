@@ -1,0 +1,1 @@
+Ejecutar primero imagenextraer.py
