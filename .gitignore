@@ -1,0 +1,15 @@
+/images
+/nubes
+/mallas
+
+procesamiento.h.gch
+
+# Ignorar todos los archivos .gch
+*.gch
+
+# Ignorar archivos .obj grandes en la carpeta mallas
+mallas/*.obj
+
+/.vscode
+
+*.d
